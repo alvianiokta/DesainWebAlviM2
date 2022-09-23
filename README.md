@@ -1,13 +1,7 @@
-## MatkulDeweb
+## Matkul Desain Web Alvin
 <hr/>
-Source code ini digunakan untuk mata kuliah design web, silahkan lakukan cloning repository ini atau anda bisa langsung download sebagai zip dikomputer anda<br/>
+saya belaajr dan ini yang pertama<br/>
 <code>
-git clone https://github.com/rikkofjr/MatkulDeweb.git
-</code>
+git clone https://github.com/alviani17//DesainWebAkviM2.git
 <br/>
-Setelah itu anda dapat langsung mempelajari setiap step pada video berikut.<br/>
-<code>
-https://www.youtube.com/playlist?list=PLwVLRbl_dCbXjz53V-nrB3TG8Fcqgn6Pc
-</code>
-<br/>
-terimakasih, silahkan belajar
+terimakasih,:)
